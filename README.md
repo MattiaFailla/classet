@@ -1,2 +1,2 @@
-# weschool
-Web version of the weschool portal
+# classet
+Web version of the classet portal
